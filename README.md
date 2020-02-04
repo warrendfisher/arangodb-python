@@ -1,2 +1,4 @@
 # arangodb-python
-ArangoDB + Python
+ArangoDB + Python  
+[https://www.arangodb.com/tutorials/tutorial-python/](https://www.arangodb.com/tutorials/tutorial-python/)  
+  
